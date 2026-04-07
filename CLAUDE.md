@@ -2,6 +2,10 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Git Workflow
+
+Always run `git status` before making any code changes to check for uncommitted work or unexpected state.
+
 ## Environment
 
 Always run Python scripts and the app using the `streamlit-dev` conda environment:
