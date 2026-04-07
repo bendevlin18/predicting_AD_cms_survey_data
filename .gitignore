@@ -1,6 +1,12 @@
 # Generated PDF artifacts — recreate with generate_*.py scripts
 *.pdf
 
+# Standalone generation scripts and data pipeline notebook
+generate_*.py
+visualization_ideas.md
+*.ipynb
+.ipynb_checkpoints/
+
 # Python
 __pycache__/
 *.pyc

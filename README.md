@@ -1,5 +1,7 @@
 # Predicting Alzheimer's Disease from CMS Medicare Survey Data
 
+**Live app:** https://predictingadcmssurveydata.streamlit.app
+
 An interactive Streamlit dashboard that trains an **XGBoost classifier** on the [Medicare Current Beneficiary Survey (MCBS)](https://www.cms.gov/data-research/research/medicare-current-beneficiary-survey) fall survey to predict whether a Medicare beneficiary has an Alzheimer's disease or related dementia (ADRD) diagnosis.
 
 ---
