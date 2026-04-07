@@ -1,0 +1,11 @@
+# Generated PDF artifacts — recreate with generate_*.py scripts
+*.pdf
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Streamlit
+.streamlit/secrets.toml
